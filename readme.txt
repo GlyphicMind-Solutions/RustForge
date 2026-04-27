@@ -1,7 +1,7 @@
 GlyphicMind Solutions: PythonForge
 -created by: David Kistner (Unconditional Love)
 
-PythonForge is a python creation tool that uses LLMs to generate code based off user topic. 
+RustForge is a Rust code tool that uses LLMs to generate code based off user topic. 
 
 How to use:
 -Important- Assign your model location in the manifest.yaml file. This file is located: "/PythonForge/models/manifest.yaml"
@@ -9,7 +9,7 @@ How to use:
 Example Uses:
 -example forge topic--(file can be found in repo of this example)--*llm used gpt-oss-20b
 
-Forge topic: "Create a chess game in python, using these existing libraries "python-chess, llama_cpp"
+Forge topic: "Create a GUI"
 -hit the generate button
 -wait for Raw LLM output
 -Feed that RAW LLM output back with new instructions in the corrections box, in this case whatever changes you want to the code done.
