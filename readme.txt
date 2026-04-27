@@ -1,4 +1,4 @@
-GlyphicMind Solutions: PythonForge
+GlyphicMind Solutions: RustForge
 -created by: David Kistner (Unconditional Love)
 
 RustForge is a Rust code tool that uses LLMs to generate code based off user topic. 
